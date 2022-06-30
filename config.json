@@ -8,11 +8,7 @@
   "includeFork": false,
   "theme": "dark.css",
   "types": [
-   "owner"
-  ],
-  "twitter": null,
-  "linkedin": "kartiknautiyal",
-  "medium": null,
-  "dribbble": null
+   "all"
+  ]
  }
 ]
