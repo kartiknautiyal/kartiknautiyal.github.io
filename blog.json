@@ -1,4 +1,10 @@
-[
+[{
+   "url_title": "Work",
+   "title": "Advanced Analytics Data Science Co-op",
+   "sub_title": "Applying Data Science is FUN",
+   "top_image": "top_image.jpeg",
+   "visible": true
+ },
  {
     "url_title": "Website",
     "title": "Website",
@@ -19,12 +25,5 @@
     "sub_title": "Starting Grad School",
     "top_image": "top_image.jpeg",
     "visible": true
-    },
-    {
-      "url_title": "Work",
-      "title": "Advanced Analytics Data Science Co-op",
-      "sub_title": "Applying Data Science is FUN",
-      "top_image": "top_image.jpeg",
-      "visible": true
     }
    ]
